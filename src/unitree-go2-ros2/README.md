@@ -3,8 +3,12 @@
 Este repositorio contiene la configuración y el desarrollo para el robot Unitree Go2 utilizando el controlador CHAMP en ROS 2 Humble. El proyecto se enfoca en el mapeo de un entorno de oficina y la implementación de un planificador de trayectoria global.
 
 **Autor:** Sebastian Solorzano
+
 **Algoritmo Asignado:** Theta*
+
 **Mapa Asignado:** Office (Oficina)
+
+
 **Video Demostrativo:** [INSERTE LINK DE YOUTUBE AQUÍ]
 
 ## Descripción General
@@ -102,7 +106,7 @@ go2_solorzano/
 5. Resultados y Evidencias
 Parte A: Mapeo
 
-    Archivos disponibles en la carpeta /src/maps/.
+    Archivos disponibles en la carpeta /src
 
     El mapa fue generado manualmente recorriendo el entorno office evitando colisiones para mantener la integridad de la odometría.
 
@@ -112,4 +116,4 @@ Parte B: Planificación
 
     La trayectoria se actualiza dinámicamente cada vez que se envía un nuevo goal en RViz.
 
-Créditos: Este proyecto utiliza como base el repositorio de widegonz y el controlador open source CHAMP.
+
