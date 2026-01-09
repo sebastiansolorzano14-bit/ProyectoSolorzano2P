@@ -61,7 +61,9 @@ Guardar el mapa (Genera .pgm y .yaml):
 ros2 run nav2_map_server map_saver_cli -f ~/go2_solorzano/src
 
 ## 2. Archivos:
-El mapa genereado se encuentra en el src con el nombre go2_solorzano.pgm y su archivo go2_solorzano.yaml
+El mapa genereado se encuentra en el src/unitree-go2-ros2 con el nombre:
+go2_solorzano.pgm para la imagen  
+Su archivo yaml :  go2_solorzano.yaml
 
 
 
