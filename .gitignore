@@ -1,0 +1,14 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# Gazebo cache
+~/.gazebo/
+
+# Python
+__pycache__/
+*.pyc
+
+# Mapas temporales
+*.db
