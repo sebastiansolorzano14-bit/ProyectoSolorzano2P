@@ -9,7 +9,7 @@ Este repositorio contiene la configuración y el desarrollo para el robot Unitre
 **Mapa Asignado:** Office (Oficina)
 
 
-**Video Demostrativo:** [INSERTE LINK DE YOUTUBE AQUÍ]
+**Video Demostrativo:** 
 
 ## Descripción General
 En este proyecto se implementa un planificador de trayectorias globales para el robot cuadrúpedo Unitree Go2 en simulación, incluyendo:
